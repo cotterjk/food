@@ -77,3 +77,10 @@ svg.logo {
 svg.logo:hover {
     stroke: darksalmon;
 }
+
+.svg-sketch-container {
+    max-width: 700px;
+    width: 75%;
+    margin: auto;
+    margin-top: 20px;
+}
