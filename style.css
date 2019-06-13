@@ -29,7 +29,7 @@ img {
     display: block;
     margin: auto;
     width: 60%;
-    border: 4vw solid darksalmon;
+    border: 4vw solid steelblue;
 }
 
 h1 {
@@ -37,7 +37,7 @@ h1 {
     font-size: 34px;
     font-weight:400;
     color: rgba(0, 0, 0, 0.84);
-    padding-top: 30px;
+    padding-top: 0.7em;
 }
 
 p {
@@ -75,12 +75,12 @@ svg.logo {
 }
 
 svg.logo:hover {
-    stroke: darksalmon;
+    stroke: steelblue;
 }
 
 .svg-sketch-container {
     max-width: 700px;
     width: 75%;
     margin: auto;
-    margin-top: 20px;
+    margin-top: 60px;
 }
